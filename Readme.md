@@ -1,11 +1,11 @@
-🚀 SkillSync: Resume Intelligence Engine
+# 🚀 SkillSync: Resume Intelligence Engine
 
 SkillSync is an AI-powered application that helps job seekers align their resumes with job descriptions by identifying missing skills and ATS (Applicant Tracking System) keywords. It leverages LangChain,LangGraph, Groq LLMs, and Streamlit to provide instant, actionable feedback for resume optimization.
 
 ## 🔗 Live Demo
 👉 https://skillsync-resume-intelligence-engine.streamlit.app/
 
-✨ Features
+## ✨ Features
 
 📂 Resume Upload: Upload your resume in PDF format.
 
@@ -25,7 +25,7 @@ Maps general skills to specific tools (e.g., Machine Learning → TensorFlow, Py
 
 Identifies abbreviations and full forms (e.g., React.js = React).
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Streamlit
  – Interactive UI for resume and job description input.
@@ -45,7 +45,7 @@ Pydantic
 Python dotenv
  – Secure API key management.
 
- ⚙️ Installation
+ ## ⚙️ Installation
 
  1. **Clone the Repository**
     git clone https://github.com/shravanssr11/SkillSync-Resume-Intelligence-Engine
@@ -63,7 +63,7 @@ Python dotenv
 
     GROQ_API_KEY=your_groq_api_key_here
 
- ▶️ Usage
+ ## ▶️ Usage
 
  Run the app with: streamlit run app.py
 
