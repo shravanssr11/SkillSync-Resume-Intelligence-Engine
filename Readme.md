@@ -2,6 +2,8 @@
 
 SkillSync is an AI-powered application that helps job seekers align their resumes with job descriptions by identifying missing skills and ATS (Applicant Tracking System) keywords. It leverages LangChain,LangGraph, Groq LLMs, and Streamlit to provide instant, actionable feedback for resume optimization.
 
+## 🔗 Live Demo
+👉 https://skillsync-resume-intelligence-engine.streamlit.app/
 
 ✨ Features
 
