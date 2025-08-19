@@ -3,3 +3,4 @@ langgraph
 langchain_groq
 streamlit
 PyPDF2
+python-dotenv
